@@ -1,0 +1,12 @@
+Listings/
+Objects/
+*.uvguix.*
+*.o
+*.crf
+*.d
+*.axf
+*.htm
+*.lnp
+*.sct
+*.bak
+*.dep
