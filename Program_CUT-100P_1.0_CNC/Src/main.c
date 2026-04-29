@@ -75,7 +75,7 @@ uint32_t B_2;
 /* Private variables ---------------------------------------------------------*/
 uint32_t cut_but_4t[2] = {0,0};
 
-uint32_t time_dinam_post_flov;//
+uint32_t time_dinam_post_flov;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
