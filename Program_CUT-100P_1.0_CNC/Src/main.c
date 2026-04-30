@@ -49,7 +49,7 @@
 #include "Butt_hand.h"
 #include "Lcd_func.h"
 #include "tech_process.h"
-#include "Other_func.h"
+#include "Other_func.h" 
 //test commit
 
 /* USER CODE END Includes */
