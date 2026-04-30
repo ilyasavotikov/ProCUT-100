@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'ProCUT-100' 
+ * Project: 'CUT-40' 
  * Target:  'CUT-40' 
  */
 
